@@ -1,0 +1,7 @@
+C:\Users\Honda\documents\visual studio 2010\Projects\Network\Network\bin\Debug\Network.exe
+C:\Users\Honda\documents\visual studio 2010\Projects\Network\Network\bin\Debug\Network.pdb
+C:\Users\Honda\documents\visual studio 2010\Projects\Network\Network\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Honda\documents\visual studio 2010\Projects\Network\Network\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Honda\documents\visual studio 2010\Projects\Network\Network\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Honda\documents\visual studio 2010\Projects\Network\Network\obj\x86\Debug\Network.exe
+C:\Users\Honda\documents\visual studio 2010\Projects\Network\Network\obj\x86\Debug\Network.pdb
